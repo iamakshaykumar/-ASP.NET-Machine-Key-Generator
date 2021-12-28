@@ -1,0 +1,8 @@
+C:\Users\AKKY\Downloads\MachineKey\bin\Debug\TestMachineKey.exe
+C:\Users\AKKY\Downloads\MachineKey\bin\Debug\TestMachineKey.pdb
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.csprojResolveAssemblyReference.cache
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.Form1.resources
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.Properties.Resources.resources
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.csproj.GenerateResource.Cache
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.exe
+C:\Users\AKKY\Downloads\MachineKey\obj\x86\Debug\TestMachineKey.pdb
